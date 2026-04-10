@@ -29,7 +29,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(level
 logger = logging.getLogger(__name__)
 
 # Hardcoded variables (from .env)
-BOT_TOKEN = "8605392231:AAFpblWIaQUOiNurtEGOs-wessY4ipLIbig"
+BOT_TOKEN = "8215271981:AAEIn1H03uk5LkPQc_XjARWuBGLhCtcrrew"
 OWNER_ID_STR = "6804172454"
 ADMIN_ID_STR = "6804172454"
 OWNER_CONTACT_URL = "https://t.me/shihab_ff_857"
