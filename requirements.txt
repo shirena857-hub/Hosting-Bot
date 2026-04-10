@@ -19,3 +19,4 @@ aiohttp
 cfonts        
 aiosqlite
 aiogram
+rich
